@@ -756,6 +756,7 @@ p.lead
         -ms-transition:all 200ms ease-in;
 }
 .nim-service .nim-service-detail {
+    top: 50%;
 	margin-left:90px;
 }
 .nim-service .nim-service-detail h4 {
