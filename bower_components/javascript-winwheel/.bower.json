@@ -1,0 +1,13 @@
+{
+  "name": "javascript-winwheel",
+  "homepage": "https://github.com/teusemanuel/javascript-winwheel",
+  "_release": "88ceb06140",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "88ceb0614038d8324952bf73eedd4982ff447b3d"
+  },
+  "_source": "https://github.com/teusemanuel/javascript-winwheel.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/teusemanuel/javascript-winwheel.git"
+}

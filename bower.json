@@ -1,0 +1,27 @@
+{
+  "name": "bower",
+  "authors": [
+    "alexandre"
+  ],
+  "description": "bower",
+  "main": "bower",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.4",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "javascript-winwheel": "https://github.com/teusemanuel/javascript-winwheel.git",
+    "gsap": "https://github.com/greensock/GreenSock-JS.git#~1.18.4"
+  }
+}

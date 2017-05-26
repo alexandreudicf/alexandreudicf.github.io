@@ -1,0 +1,30 @@
+.body {
+    background-color: lightblue;
+}
+
+.participante-selecionado {
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+}
+
+.participante-naoselecionado {
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+.painelletra {
+    margin: 2px;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+}
+
+.letraEscolhida {
+    margin-right: 10px;
+}
+
+.left {    display: inline-flex;
+
+}
